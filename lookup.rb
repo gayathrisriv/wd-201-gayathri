@@ -71,13 +71,6 @@ def resolve(dns_records, lookup_chain, domain)
   return lookup_chain
 end
 
-# ..
-
-# ..
-# FILL YOUR CODE HERE
-# ..
-# ..
-
 # To complete the assignment, implement `parse_dns` and `resolve`.
 # Remember to implement them above this line since in Ruby
 # you can invoke a function only after it is defined.
